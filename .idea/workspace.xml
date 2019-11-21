@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7518d9b-0f6b-4594-8213-cde1c077f733" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copyright.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/material.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-JD-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-addressList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-cooperation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-getOrderInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-login-manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-myOrder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-pay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-payfail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-paysuccess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-sampling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-seckill-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-seckill-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-seckillOrder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-shoplogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-success-cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-weixinpay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages-zoom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/vuetify.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/webbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/widget-cartPanelView.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/widget-jquery.autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-moon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-moon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-moon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-pc.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-pc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-pc.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-pc.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-tb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-tb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-tb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-tb.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-touch.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-touch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-touch.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icon-touch.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getOrderInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-order-evaluate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-order-pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-order-receive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-order-send.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-orderDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-person-collect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-person-footmark.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-setting-address-complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-setting-address-phone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-setting-address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-setting-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-setting-safe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/57b51ea9Nb862ca5e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/buy001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/buy002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/buy01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/cooperation_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/down-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/dp01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/dp02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/dp03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/dp04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/empty_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/erweima.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/gocart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/gocart01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/gotop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/icon-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/intro01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/intro02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/intro03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/itemlike01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/itemlike02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/itemlike03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/itemlike04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/itemlike05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/itemlike06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/l-m01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/list.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/login-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/manage-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/mobile01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/mobile02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/mobile03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/mobile04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/mobile05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/mobile06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/part01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/part02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/part03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/pay5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/phone14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/photo_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/sampling_head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/seckillbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/shi_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/shop-intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/shop-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/shop-part.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/title_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/_/y24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ad1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ali.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/itemlike/itemlike01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/itemlike/itemlike02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/itemlike/itemlike03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/itemlike/itemlike04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/itemlike/itemlike05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/itemlike/itemlike06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/pay5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/pay/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/dp01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/dp02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/dp03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/dp04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/intro01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/intro02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/intro03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/l-m01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/mobile01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/mobile02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/mobile03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/mobile04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/mobile05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/mobile06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/part01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/part02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/part03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/phone/phone14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/success-cart/buy001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/success-cart/buy002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/success-cart/buy01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/success-cart/gocart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/success-cart/gocart01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/zoom/b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/zoom/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/zoom/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/zoom/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/zoom/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/assets/img/zoom/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner3x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/barrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/brand_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cartPanelViewIcons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/choosed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/duihuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/erweima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-b01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-b02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-1-b03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/goods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/interest01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/interest02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/interest03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/interest04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/interest05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/interest06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/linker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/loginbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mod-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/phone-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/quan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/today01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/today02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/today03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/today04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wx_cz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/items/4/5/145.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/items/8/1/81.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/czFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/model/cartModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/addressList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/city-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/getOrderInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/jquery.slideunlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/login-manage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/person-collect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/person-footmark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/seckill-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/shoplogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/shortcut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/sm-city-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pages/top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/birthday/birthday.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/citypicker/distpicker.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/citypicker/distpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/jquery-placeholder/jquery.placeholder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/jquery.easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/jquery.jqzoom/jquery.jqzoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/jquery.jqzoom/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/jquery/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/qs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/sui/sui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins/upload/uploadPreview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vue/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vue/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vue/vuetify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/widget/cartPanelView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/widget/jquery.autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/widget/nav-portal-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/widget/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leyou-portal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payfail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paysuccess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cssgrids/cssgrids-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery-placeholder/jquery.placeholder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery.easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery.jqzoom/jquery.jqzoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery.jqzoom/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/normalize/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sui/sui-append.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sui/sui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sui/sui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill-item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shortcut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/side.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/success-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/pay/controller/WechatPayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/pay/service/WechatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/pay/service/impl/WechatServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yunbattery/generator/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yunbattery/src/main/java/com/sam/yh/yunbattery/common/exception/CrudException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yunbattery/src/main/java/com/sam/yh/yunbattery/user/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yunbattery/src/main/java/com/sam/yh/yunbattery/user/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yunbattery/src/main/java/com/sam/yh/yunbattery/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yunbattery/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/common/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/common/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/common/socket/ByteDataHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/common/socket/StringDataHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/common/socket/TcpByteServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/common/socket/TcpStringServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/device/controller/ShengtuDeviceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/device/controller/ShengtuDeviceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/user/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/src/main/java/com/sam/shengtu/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../shengtu/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shengtu/src/test/java/com/sam/shengtu/JwtTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7225">
+              <caret line="522" column="45" selection-start-line="522" selection-start-column="45" selection-end-line="522" selection-end-column="45" />
+              <folding>
+                <element signature="e#49#193#0" />
+                <element signature="e#224#420#0" />
+                <element signature="e#474#553#0" />
+                <element signature="e#570#6538#0" />
+                <element signature="e#6581#7289#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2975">
+              <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3600">
+              <caret line="268" column="15" selection-start-line="268" selection-start-column="15" selection-end-line="268" selection-end-column="15" />
+              <folding>
+                <element signature="n#div#1;n#div#4;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getOrderInfo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6925">
+              <caret line="277" column="41" selection-start-line="277" selection-start-column="41" selection-end-line="277" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pay.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>good</find>
+      <find>品牌</find>
+      <find>index</find>
+      <find>static fr</find>
+      <find>结算</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/webbase.css" />
+        <option value="$PROJECT_DIR$/css/pages-list.css" />
+        <option value="$PROJECT_DIR$/search.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/js/common.js" />
+        <option value="$PROJECT_DIR$/cart.html" />
+        <option value="$PROJECT_DIR$/getOrderInfo.html" />
+        <option value="$PROJECT_DIR$/pay.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="294" />
+    <option name="y" value="112" />
+    <option name="width" value="1300" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leyou-portal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou-portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574321468034" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="750" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.43844858" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/pages-list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/webbase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/axios.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="178" selection-start-line="1" selection-start-column="178" selection-end-line="1" selection-end-column="178" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shortcut.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7925">
+          <caret line="410" column="21" selection-start-line="410" selection-start-column="21" selection-end-line="410" selection-end-column="21" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/shortcut.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1954">
+          <caret line="687" column="35" selection-start-line="687" selection-start-column="35" selection-end-line="687" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7225">
+          <caret line="522" column="45" selection-start-line="522" selection-start-column="45" selection-end-line="522" selection-end-column="45" />
+          <folding>
+            <element signature="e#49#193#0" />
+            <element signature="e#224#420#0" />
+            <element signature="e#474#553#0" />
+            <element signature="e#570#6538#0" />
+            <element signature="e#6581#7289#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="268" column="15" selection-start-line="268" selection-start-column="15" selection-end-line="268" selection-end-column="15" />
+          <folding>
+            <element signature="n#div#1;n#div#4;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getOrderInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6925">
+          <caret line="277" column="41" selection-start-line="277" selection-start-column="41" selection-end-line="277" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>@types/jquery</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
